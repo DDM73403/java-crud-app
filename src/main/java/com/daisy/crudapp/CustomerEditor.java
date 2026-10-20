@@ -1,5 +1,4 @@
-package com.example.crudwithvaadin;
-
+package com.daisy.crudapp;
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.KeyNotifier;
 import com.vaadin.flow.component.button.Button;

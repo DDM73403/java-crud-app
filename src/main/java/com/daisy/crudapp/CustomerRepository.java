@@ -1,5 +1,4 @@
-package com.example.crudwithvaadin;
-
+package com.daisy.crudapp;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

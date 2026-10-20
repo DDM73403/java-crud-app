@@ -1,5 +1,4 @@
-package com.example.crudwithvaadin;
-
+package com.daisy.crudapp;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
